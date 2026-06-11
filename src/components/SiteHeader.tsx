@@ -22,7 +22,7 @@ export function SiteHeader() {
     <header className="sticky top-0 z-50 bg-white/90 backdrop-blur border-b border-border">
       <div className="container-page flex items-center justify-between h-16">
         <Link to="/" className="flex items-center gap-2">
-          <img src={logo.url} alt="YaarWin logo" width={36} height={36} className="rounded-full" />
+          <img src={logo} alt="YaarWin logo" width={36} height={36} className="rounded-full" />
           <span className="font-display font-bold text-lg text-foreground">Yaar<span className="text-brand">Win</span></span>
         </Link>
         <nav className="hidden lg:flex items-center gap-6">
