@@ -67,7 +67,7 @@ export const Route = createFileRoute("/gift-code")({
 
       <H2>Where Do Genuine Codes Come From?</H2>
       <UL>
-        <li>The official Telegram channel <a href="https://t.me/yaarrwin" className="text-brand" target="_blank" rel="noreferrer">@yaarrwin</a> — the fastest source for fresh drops.</li>
+        <li>The official Telegram channel <a href="https://t.me/teamrolexraxi" className="text-brand" target="_blank" rel="noreferrer">@yaarwin</a> — the fastest source for fresh drops.</li>
         <li>The in-app banner notifications during scheduled events.</li>
         <li>This page (refreshed by our editorial team every morning).</li>
         <li>Verified agent shares — agents often receive codes a few minutes ahead of public release.</li>
