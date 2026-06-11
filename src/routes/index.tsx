@@ -62,7 +62,7 @@ function Home() {
           <div className="flex justify-center">
             <div className="relative">
               <div className="absolute -inset-6 bg-brand/20 blur-3xl rounded-full" />
-              <img src={logo.url} alt="YaarWin official platform logo" width={360} height={360} className="relative rounded-full shadow-2xl" />
+              <img src={logo} alt="YaarWin official platform logo" width={360} height={360} className="relative rounded-full shadow-2xl" />
             </div>
           </div>
         </div>
