@@ -1,3 +1,4 @@
+const logo = "/yaarwin-logo.jpg";
 const deposit = "/deposit-bonus.jpg";
 const salary = "/daily-salary.jpg";
 const jackpot = "/referral-jackpot.jpg";
