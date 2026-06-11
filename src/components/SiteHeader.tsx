@@ -13,8 +13,8 @@ const nav = [
   { to: "/faq", label: "FAQ" },
 ];
 
-export const LOGIN_URL = "https://yaarwin.net/#/";
-export const REGISTER_URL = "https://yaarwin.net/#/";
+export const LOGIN_URL = "https://yaarwin.biz/#/register?invitationCode=44652714975";
+export const REGISTER_URL = "https://yaarwin.biz/#/register?invitationCode=44652714975";
 
 export function SiteHeader() {
   const [open, setOpen] = useState(false);
