@@ -53,7 +53,7 @@ export function SiteFooter() {
             <span className="font-display font-bold text-lg">Yaar<span className="text-brand">Win</span></span>
           </Link>
           <p className="text-sm text-muted-foreground">Your trusted guide to the YaarWin platform — login, registration, gift codes, bonuses and responsible play.</p>
-          <a href="https://t.me/yaarrwin" className="text-sm text-brand font-medium mt-3 inline-block" target="_blank" rel="noreferrer">Join us on Telegram →</a>
+          <a href="https://t.me/teamrolexraxi" className="text-sm text-brand font-medium mt-3 inline-block" target="_blank" rel="noreferrer">Join us on Telegram →</a>
         </div>
         {cols.map((c) => (
           <div key={c.title}>
