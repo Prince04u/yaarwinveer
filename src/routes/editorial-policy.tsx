@@ -20,7 +20,7 @@ export const Route = createFileRoute("/editorial-policy")({
       <UL>
         <li>Official YaarWin announcements and in-app notices</li>
         <li>First-hand testing on the live web and Android app</li>
-        <li>Verified Telegram channel @yaarrwin</li>
+        <li>Verified Telegram channel @teamrolexraxi</li>
         <li>Community reports cross-verified against the platform</li>
       </UL>
       <H2>Workflow</H2>
