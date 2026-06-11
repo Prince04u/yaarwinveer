@@ -49,7 +49,7 @@ export function SiteFooter() {
       <div className="container-page py-12 grid gap-8 md:grid-cols-2 lg:grid-cols-5">
         <div className="lg:col-span-1">
           <Link to="/" className="flex items-center gap-2 mb-3">
-            <img src={logo.url} alt="YaarWin" width={36} height={36} className="rounded-full" />
+            <img src={logo} alt="YaarWin" width={36} height={36} className="rounded-full" />
             <span className="font-display font-bold text-lg">Yaar<span className="text-brand">Win</span></span>
           </Link>
           <p className="text-sm text-muted-foreground">Your trusted guide to the YaarWin platform — login, registration, gift codes, bonuses and responsible play.</p>
