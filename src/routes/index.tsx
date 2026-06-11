@@ -2,7 +2,7 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import { Gift, Smartphone, Shield, Trophy, Zap, Users, BookOpen, CheckCircle2, Sparkles, Award, Coins, TrendingUp } from "lucide-react";
 import { CTASection, FAQList, InfoTable, faqSchema } from "@/components/PageShell";
 import { LOGIN_URL, REGISTER_URL } from "@/components/SiteHeader";
-import logo from "@/assets/yaarwin-logo.asset.json";
+const logo = "/yaarwin-logo.jpg";
 import { Figure, refImages } from "@/components/RefImage";
 
 const homeFaqs = [
