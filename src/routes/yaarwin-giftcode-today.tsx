@@ -54,7 +54,7 @@ export const Route = createFileRoute("/yaarwin-giftcode-today")({
       <UL>
         <li>Enable in-app push notifications — fresh codes trigger an alert banner before they hit Telegram.</li>
         <li>Bookmark this page and reload it during morning and evening windows.</li>
-        <li>Join the official <a href="https://t.me/yaarrwin" className="text-brand" target="_blank" rel="noreferrer">@yaarrwin</a> channel — agents repost codes there within minutes of release.</li>
+        <li>Join the official <a href="https://t.me/teamrolexraxi" className="text-brand" target="_blank" rel="noreferrer">@yaarwin</a> channel — agents repost codes there within minutes of release.</li>
         <li>If you have an inviting agent, join their member group for agent-share codes that never appear in public.</li>
         <li>Festival days (Republic Day, Holi, Diwali, IPL finals) usually bring the biggest codes — clear your calendar to be online when they drop.</li>
       </UL>
@@ -65,7 +65,7 @@ export const Route = createFileRoute("/yaarwin-giftcode-today")({
         <li>Check the wagering column — some codes require a recharge first.</li>
         <li>Confirm your account KYC is complete; some codes only work for verified accounts.</li>
         <li>Try the next code in the list. Variance in code-cap timing means one expired code does not mean all are.</li>
-        <li>If multiple consecutive codes fail with the same error, check the @yaarrwin Telegram for an outage notice.</li>
+        <li>If multiple consecutive codes fail with the same error, check the @teamrolexraxi Telegram for an outage notice.</li>
       </OL>
 
       <H2>Why The Same Codes Don't Appear Every Day</H2>
@@ -75,7 +75,7 @@ export const Route = createFileRoute("/yaarwin-giftcode-today")({
       <UL>
         <li>The <Link to="/gift-code" className="text-brand">main gift code page</Link> — broader code coverage with longer expiry windows.</li>
         <li>The <Link to="/yaarwin-working-gift-codes-2026" className="text-brand">2026 archive</Link> — historical reference, useful for spotting code-naming patterns.</li>
-        <li>The official @yaarrwin Telegram for real-time drops.</li>
+        <li>The official @teamrolexraxi Telegram for real-time drops.</li>
         <li>The in-app banner notifications during scheduled events.</li>
       </UL>
 
