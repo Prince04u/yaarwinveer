@@ -1,5 +1,5 @@
 import { Link } from "@tanstack/react-router";
-import logo from "@/assets/yaarwin-logo.asset.json";
+const logo = "/yaarwin-logo.jpg";
 
 const cols = [
   {
