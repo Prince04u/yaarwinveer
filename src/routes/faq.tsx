@@ -16,7 +16,7 @@ const faqs = [
   { q: "Where do I download the YaarWin app?", a: "Only from the official YaarWin website. See our Download App guide for safe install steps." },
   { q: "Is YaarWin safe?", a: "It uses HTTPS, encrypted payments and verified bank-account binding before withdrawals. Never share your OTP or password." },
   { q: "What happens if I forget my password?", a: "Use the Forgot Password link, verify your phone with OTP, and set a new password." },
-  { q: "How do I contact YaarWin support?", a: "In-app live chat or the official Telegram channel @yaarrwin. Never DM unofficial 'support' accounts." },
+  { q: "How do I contact YaarWin support?", a: "In-app live chat or the official Telegram channel @teamrolexraxi. Never DM unofficial 'support' accounts." },
   { q: "Can I play YaarWin on iOS?", a: "Yes — through the optimised mobile web version. Add to home screen for an app-like experience." },
   { q: "Are WinGo results random?", a: "Yes. Trx Win Go uses public TRX block hashes for verifiable randomness; other modes use server-side audited RNG." },
   { q: "What is Big and Small?", a: "Big = numbers 5–9, Small = numbers 0–4." },
@@ -42,7 +42,7 @@ export const Route = createFileRoute("/faq")({
       intro="Browse the most-asked YaarWin questions, grouped by topic and updated regularly by our editorial team."
       faqs={faqs}
     >
-      <p>If your question isn't covered here, message us via the <a href="/contact" className="text-brand">contact page</a> or our official Telegram <a href="https://t.me/yaarrwin" className="text-brand" target="_blank" rel="noreferrer">@yaarrwin</a>.</p>
+      <p>If your question isn't covered here, message us via the <a href="/contact" className="text-brand">contact page</a> or our official Telegram <a href="https://t.me/teamrolexraxi" className="text-brand" target="_blank" rel="noreferrer">@yaarwin</a>.</p>
     </ContentPage>
   ),
 });
