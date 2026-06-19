@@ -19,7 +19,7 @@ const homeFaqs = [
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "YaarWin — Official Login, Register, Gift Codes & Bonuses 2026" },
+      { title: "YaarWin" },
       { name: "description", content: "Official YaarWin guide for 2026: step-by-step login, registration, latest working gift codes, deposit bonuses, agent programme and safe APK download." },
       { name: "keywords", content: "yaarwin, yaarwin login, yaarwin register, yaarwin gift code, yaarwin app, yaarwin bonus" },
       { property: "og:title", content: "YaarWin — Login, Register, Gift Codes & Bonuses 2026" },
@@ -43,8 +43,7 @@ function Home() {
               <Sparkles size={14} /> Updated for 2026 · Trusted Guide
             </div>
             <h1 className="text-4xl md:text-6xl font-bold text-foreground leading-tight">
-              The Official <span className="text-brand">YaarWin</span> Guide — Login, Register, Win More.
-            </h1>
+              The Official <span className="text-brand">YaarWin</h1>
             <p className="mt-5 text-lg text-muted-foreground max-w-xl">
               Everything you need to start with YaarWin: secure registration, working gift codes, deposit bonuses up to ₹200, daily salary system and a safe app download — all explained step by step.
             </p>
